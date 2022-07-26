@@ -5,7 +5,6 @@ import { HiSwitchHorizontal } from "react-icons/hi";
 import "react-dropdown/style.css";
 import { Header } from "./Header";
 import styled from "styled-components";
-import Select from "./Select";
 
 function App() {
   const [info, setInfo] = useState([]);
